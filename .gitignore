@@ -1,0 +1,36 @@
+```text
+# Byte-compiled / Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+venv/
+.venv/
+env/
+
+# Secrets & API Keys
+.env
+*.env
+.env.local
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Benchmark test run scratch files
+model_predictions.json
+model_answers.json
+evaluation_runs/
+scratch/
+*.log
+
+# Private procedural generator & test suites (IP moat)
+private_suite/
+generator_engine/
+```
