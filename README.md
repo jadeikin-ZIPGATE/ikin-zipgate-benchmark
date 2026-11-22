@@ -29,12 +29,3 @@ python eval.py --dataset data/zipgate_eval_pilot.json
 ## License
 
 This benchmark and its specifications are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). For commercial evaluation licensing or custom dataset generation, contact the authors.
-```
-
----
-
-### 3. Save the File
-* Scroll down to the bottom where it says **"Commit changes..."** (or tap the green **Commit changes** button).
-* Tap **Commit changes**.
-
----
