@@ -1,6 +1,4 @@
 
-````markdown
-# IKIN ZipGate v2.2: Spatial Reasoning Benchmark for Frontier LLMs
 ```markdown
 # IKIN ZipGate v2.2: Spatial Reasoning Benchmark for Frontier LLMs
 
