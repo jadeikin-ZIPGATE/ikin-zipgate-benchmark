@@ -1,4 +1,3 @@
-```json
 {
   "benchmark_name": "IKIN_ZipGate_Spatial_Reasoning_Benchmark",
   "version": "v2.2-pilot",
@@ -57,4 +56,3 @@
     }
   ]
 }
-```
